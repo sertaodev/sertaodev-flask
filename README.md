@@ -1,8 +1,6 @@
 ![Alt Text](https://cdn.discordapp.com/attachments/340263600142942209/829135878420299776/bg_white.png)
 
-## Criando api usando flaska
-
-Notion [link](https://www.notion.so/Flask-26f75ac67a69497eaf24f9d29a2797dc)
+## Criando api usando flask
 
 Run project
 
@@ -41,3 +39,4 @@ Routes
 /prod/delete/<gtin> -> Remove products
 /prod/update/<gtin> -> Update products
 ```
+Notion [link](https://www.notion.so/Flask-26f75ac67a69497eaf24f9d29a2797dc)
